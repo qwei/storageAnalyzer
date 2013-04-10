@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="videoColor">#F6951D</color>
+	<color name="musicColor">#B2393B</color>
+	<color name="pictureColor">#ADDA6E</color>
+	<color name="apkColor">#E17CDF</color>
+	<color name="appColor">#5ABBEB</color>
+	<color name="otherColor">#636363</color>
+	<color name="shortRectangle1">#70bb42</color>
+	<color name="shortRectangle2">#c3282e</color>
+	<color name="longRectangle">#555555</color>
+	<color name="resultColor">#afafaf</color>
+</resources>

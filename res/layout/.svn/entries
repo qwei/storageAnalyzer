@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.yyqidian.com:9443/s1v1n/storagespace"
+   revision="37"
+   last-author="zqwei"
+   url="https://svn.yyqidian.com:9443/s1v1n/storagespace/trunk/StorageAnalyzer/res/layout"
+   uuid="47dbbd24-0ee5-aa42-a414-988ef8584577"
+   committed-rev="30"
+   kind="dir"
+   committed-date="2013-01-04T08:07:36.690750Z"/>
+<entry
+   name="filelist.xml"
+   revision="51"
+   checksum="82f880e011162c7df10915ec9ebe40b8"
+   last-author="zqwei"
+   text-time="2013-01-24T06:42:24.638000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"/>
+<entry
+   name="fileview.xml"
+   revision="51"
+   checksum="669d0fdcc652d8b415dd3e09698dbfaa"
+   last-author="zqwei"
+   text-time="2013-01-24T06:12:51.240000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"/>
+<entry
+   name="main.xml"
+   revision="51"
+   checksum="c0e519026dbf2b38ca653d2f31a76e2d"
+   last-author="zqwei"
+   text-time="2013-01-18T02:53:00.646000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"/>
+<entry
+   name="result.xml"
+   revision="51"
+   checksum="f1bf7fc1e98d10d13504307121bd4c28"
+   last-author="zqwei"
+   text-time="2013-01-16T09:01:23.777000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"/>
+<entry
+   name="scanfile.xml"
+   revision="39"
+   checksum="d0c3f451775917d8d27a13fc16a30247"
+   last-author="zqwei"
+   text-time="2013-01-04T10:30:27.697000Z"
+   committed-rev="39"
+   kind="file"
+   committed-date="2013-01-05T07:37:07.175000Z"/>
+<entry
+   name="scrollview.xml"
+   checksum="4e521a9ed84cf12e4d5ff802a2a231aa"
+   last-author="zqwei"
+   text-time="2013-01-04T05:28:41.662000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2013-01-04T08:07:15.487000Z"/>
+</wc-entries>

@@ -1,0 +1,187 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/atm_bg"
+     >
+
+    <!-- <TextView
+        android:id="@+id/textview"
+        style="@style/textStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/source"
+        android:textSize="20sp" 
+        android:layout_marginLeft="10dp"/> -->
+
+    <!-- <ImageView
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textview"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/divider" /> -->
+
+    <RelativeLayout
+        android:id="@+id/internalStorage"
+        android:layout_width="fill_parent"
+        android:layout_height="105dip" >
+
+        <TextView
+            android:id="@+id/internalStorageText"
+            style="@style/textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textHeight"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:text="@string/internalStorage" />
+
+        <Button
+            android:id="@+id/analyseInternalStorage"
+            android:layout_width="@dimen/buttonWidth"
+            android:layout_height="@dimen/buttonHeight"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="0dp"
+            android:text="@string/analyseButton" 
+            android:layout_marginRight="5dp"
+            android:background="@drawable/button_selector" 
+            android:textColor="#ffffff"/>
+
+        <mobi.infolife.storageanalyzer.RectangleView
+            android:id="@+id/internalStorageRectangle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/rectangleHeight"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/internalStorageText"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="3dp" >
+        </mobi.infolife.storageanalyzer.RectangleView>
+
+        <TextView
+            android:id="@+id/internalStorageDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textHeight"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/internalStorageRectangle"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="3dp"
+            android:layout_toLeftOf="@+id/analyseInternalStorage"
+            android:textColor="#a3a3a3" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/internalSd"
+        android:layout_width="fill_parent"
+        android:layout_height="105dip"
+        android:layout_below="@+id/internalStorage" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/divider" />
+
+        <Button
+            android:id="@+id/analyseInternalSd"
+            android:layout_width="@dimen/buttonWidth"
+            android:layout_height="@dimen/buttonHeight"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="0dp"
+            android:layout_marginRight="5dp"
+            android:text="@string/analyseButton" 
+            android:background="@drawable/button_selector"
+            android:textColor="#ffffff"/>
+
+        <mobi.infolife.storageanalyzer.RectangleView
+            android:id="@+id/internalSdRectangle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/rectangleHeight"
+            android:layout_below="@+id/internalSdText"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="3dp" >
+        </mobi.infolife.storageanalyzer.RectangleView>
+
+        <TextView
+            android:id="@+id/internalSdDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textHeight"
+            android:layout_below="@+id/internalSdRectangle"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="3dp"
+            android:textColor="#a3a3a3" />
+
+        <TextView
+            android:id="@+id/internalSdText"
+            style="@style/textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textHeight"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/internalSd" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/externalSd"
+        android:layout_width="fill_parent"
+        android:layout_height="105dip"
+        android:layout_below="@+id/internalSd"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/divider" />
+
+        <TextView
+            android:id="@+id/externalSdText"
+            style="@style/textStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textHeight"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/externalSd" />
+
+        <Button
+            android:id="@+id/analyseExternalSd"
+            android:layout_width="@dimen/buttonWidth"
+            android:layout_height="@dimen/buttonHeight"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="0dp"
+            android:text="@string/analyseButton" 
+            android:layout_marginRight="5dp"
+            android:background="@drawable/button_selector"
+            android:textColor="#ffffff"/>
+
+        <mobi.infolife.storageanalyzer.RectangleView
+            android:id="@+id/externalSdRectangle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/rectangleHeight"
+            android:layout_below="@+id/externalSdText"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="3dp" >
+        </mobi.infolife.storageanalyzer.RectangleView>
+
+        <TextView
+            android:id="@+id/externalSdDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/textHeight"
+            android:layout_below="@+id/externalSdRectangle"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="3dp"
+            android:textColor="#a3a3a3" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/externalSd"
+        android:background="@drawable/divider" 
+        android:layout_marginTop="5dp"/>
+
+</RelativeLayout>

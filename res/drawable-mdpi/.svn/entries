@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.yyqidian.com:9443/s1v1n/storagespace"
+   revision="37"
+   last-author="zqwei"
+   url="https://svn.yyqidian.com:9443/s1v1n/storagespace/trunk/StorageAnalyzer/res/drawable-mdpi"
+   committed-rev="15"
+   kind="dir"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="66833cd53180d3d04ba2a4f319510d41"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-14T08:58:23.150000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"
+   prop-time="2012-12-28T06:33:51.291000Z"/>
+<entry
+   name="icon.jpg"
+   revision="42"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="icon.png"
+   revision="43"
+   kind="file"
+   deleted="true"/>
+</wc-entries>

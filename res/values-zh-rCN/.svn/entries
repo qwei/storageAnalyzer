@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.yyqidian.com:9443/s1v1n/storagespace"
+   revision="37"
+   last-author="zqwei"
+   uuid="47dbbd24-0ee5-aa42-a414-988ef8584577"
+   url="https://svn.yyqidian.com:9443/s1v1n/storagespace/trunk/StorageAnalyzer/res/values-zh-rCN"
+   committed-rev="34"
+   kind="dir"
+   committed-date="2013-01-04T08:08:45.847000Z"/>
+<entry
+   name="private_strings.xml"
+   checksum="12b5e215fdb2aabbe6216bf5d96a2a4b"
+   last-author="zqwei"
+   committed-rev="22"
+   text-time="2012-12-28T08:43:36.411000Z"
+   kind="file"
+   committed-date="2012-12-29T08:14:29.863000Z"/>
+<entry
+   name="strings.xml"
+   revision="51"
+   checksum="b5ddc895d9d818a926556e2f6c56d80a"
+   last-author="zqwei"
+   committed-rev="51"
+   text-time="2013-01-24T06:17:35.398000Z"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"/>
+</wc-entries>

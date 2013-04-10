@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.yyqidian.com:9443/s1v1n/storagespace"
+   revision="37"
+   last-author="zqwei"
+   url="https://svn.yyqidian.com:9443/s1v1n/storagespace/trunk/StorageAnalyzer/res/menu"
+   committed-rev="15"
+   kind="dir"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="main.xml"
+   checksum="ea5cbf7c97f0ed284fab6882da5c71fc"
+   last-author="zqwei"
+   text-time="2012-12-14T08:58:23.588000Z"
+   committed-rev="15"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+</wc-entries>

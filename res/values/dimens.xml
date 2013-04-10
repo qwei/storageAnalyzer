@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="rectangleHeight">30dip</dimen>
+	<dimen name="otherWidth">110dip</dimen>
+	<dimen name="textHeight">30dip</dimen>
+	<dimen name="buttonHeight">65dip</dimen>
+	<dimen name="buttonWidth">80dip</dimen>
+	<dimen name="imageHeight">40dip</dimen>
+</resources>

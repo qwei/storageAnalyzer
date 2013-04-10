@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.yyqidian.com:9443/s1v1n/storagespace"
+   name=""
+   revision="37"
+   last-author="zqwei"
+   url="https://svn.yyqidian.com:9443/s1v1n/storagespace/trunk/StorageAnalyzer/res/drawable"
+   committed-rev="15"
+   kind="dir"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="bg1.xml"
+   checksum="f33086fd71819c9140a579e2e3fc495e"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-20T06:13:24.992000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="bg2.xml"
+   checksum="a9175c655a3c9b9930745073b8ca7f87"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-20T06:13:16.752000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="bg3.xml"
+   checksum="dd91bffae6e97e569e0b16b4118d730f"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-20T06:13:06.465000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="bg4.xml"
+   checksum="f5a0a48a49a6659df2efc5cc2df24ed3"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-20T06:12:53.544000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="bg5.xml"
+   checksum="98e0443599508f0e40c9c1cd628e7df4"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-20T06:12:42.400000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="bg6.xml"
+   checksum="08857339c9cd4448318e6238784c970c"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-20T06:12:22.588000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"/>
+<entry
+   name="button_selector.xml"
+   revision="51"
+   checksum="f02ce2f155c3f8c54c8bde21212ec662"
+   last-author="zqwei"
+   text-time="2013-01-18T02:50:58.213000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"/>
+<entry
+   name="line.xml"
+   revision="39"
+   checksum="7af918c8aea081cd054fcbc56d184c72"
+   last-author="zqwei"
+   committed-rev="39"
+   text-time="2013-01-04T07:59:52.988000Z"
+   kind="file"
+   committed-date="2013-01-05T07:37:07.175000Z"/>
+</wc-entries>

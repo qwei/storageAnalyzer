@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="source">存儲源</string>
+    <string name="app_name">磁盤分析器</string>
+    <string name="menu_settings">設置</string>
+    <string name="internalSd">內置存儲卡</string>
+    <string name="internalStorage">內部存儲</string>
+    <string name="externalSd">外置存儲卡</string>
+    <string name="analyseButton">分析</string>
+    <string name="video">視頻</string>
+    <string name="music">音樂</string>
+    <string name="apk">安裝包</string>
+    <string name="app">應用</string>
+    <string name="picture">圖片</string>
+    <string name="other">其他</string>
+    <string name="feature">應用推薦</string>
+    <string name="scanFile">掃描文件...</string>
+    <string name="result">分析结果</string>
+    <string name="menu_update">更新</string>
+    <string name="wait_title">請稍等</string>
+    <string name="wait_msg">正在加載數據...</string>
+    <string name="ok">確定</string>
+    <string name="available">可用  </string>
+    <string name="about">關於</string>
+    <string name="feedback">反饋</string>
+    <string name="startScan">開始掃描...</string>
+    <string name="statistics">正在統計已安裝程序...</string>
+    <string name="notice_update_msg">檢測到有新版本，是否更新？</string>
+    <string name="what_is_new">更新內容：</string>
+    <string name="update_later">稍後</string>
+    <string name="no_update_txt">沒有檢測到可用的更新</string>
+    <string name="usage">占用情况</string>
+<string name="scanning">掃描中</string>
+</resources>

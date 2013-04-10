@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="180dp"
+    android:background="@color/atm_bg"
+    android:orientation="vertical"
+     >
+
+    <TextView
+        style="@style/dialogTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/action_bar_bg"
+        android:padding="8dp"
+        android:text="@string/scanFile" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/seanedPercent"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="0.11" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/filePath"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+</LinearLayout>

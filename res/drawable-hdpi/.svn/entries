@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.yyqidian.com:9443/s1v1n/storagespace"
+   revision="37"
+   last-author="zqwei"
+   uuid="47dbbd24-0ee5-aa42-a414-988ef8584577"
+   url="https://svn.yyqidian.com:9443/s1v1n/storagespace/trunk/StorageAnalyzer/res/drawable-hdpi"
+   committed-rev="33"
+   kind="dir"
+   committed-date="2013-01-04T08:08:31.831375Z"/>
+<entry
+   name="btn.9.png"
+   revision="51"
+   checksum="a08c47632ded7674f2f7f01dd9c3d433"
+   last-author="zqwei"
+   text-time="2013-01-18T02:50:38.494000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"
+   prop-time="2013-01-24T06:50:05.822000Z"/>
+<entry
+   name="btn_disable.9.png"
+   revision="51"
+   checksum="3d8da5418be983e667a4765519b29a4e"
+   last-author="zqwei"
+   text-time="2013-01-18T02:50:38.497000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"
+   prop-time="2013-01-24T06:50:05.866000Z"/>
+<entry
+   name="btn_press.9.png"
+   revision="51"
+   checksum="77af4d38e637475d7322519e9d0c59f9"
+   last-author="zqwei"
+   text-time="2013-01-18T02:50:38.497000Z"
+   committed-rev="51"
+   kind="file"
+   committed-date="2013-01-25T06:59:51.177000Z"
+   prop-time="2013-01-24T06:50:05.848000Z"/>
+<entry
+   name="close.png"
+   revision="39"
+   checksum="a631d73eaf8d4086fc136549fd7b041e"
+   last-author="zqwei"
+   committed-rev="39"
+   text-time="2013-01-05T06:27:19.479000Z"
+   kind="file"
+   committed-date="2013-01-05T07:37:07.175000Z"
+   prop-time="2013-01-05T07:36:54.471000Z"/>
+<entry
+   name="divider.png"
+   checksum="57d8cdb43c1df84f83e27f874dca2e4b"
+   last-author="zqwei"
+   text-time="2013-01-04T04:27:09.692000Z"
+   committed-rev="33"
+   kind="file"
+   committed-date="2013-01-04T08:08:31.831000Z"
+   prop-time="2013-01-04T07:53:14.447000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="aa738c2eee9b86763ac2ec399883bcc7"
+   last-author="zqwei"
+   committed-rev="15"
+   text-time="2012-12-14T08:58:23.156000Z"
+   kind="file"
+   committed-date="2012-12-28T06:34:21.066000Z"
+   prop-time="2012-12-28T06:33:51.338000Z"/>
+<entry
+   name="icon.jpg"
+   revision="42"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="icon.png"
+   revision="42"
+   checksum="d64ad92495ee079bae4c391485610833"
+   last-author="zqwei"
+   text-time="2013-01-09T02:40:51.172000Z"
+   committed-rev="42"
+   kind="file"
+   committed-date="2013-01-09T10:30:43.509000Z"
+   prop-time="2013-01-09T10:30:34.934000Z"/>
+</wc-entries>

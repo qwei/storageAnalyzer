@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_content">%1$s v%2$s\nCopyright ©2009-2013 INFOLIFE LLC, All rights reserved.</string>
+    <string name="supportemail">support@infolife.mobi</string>
+</resources>
